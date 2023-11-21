@@ -8,6 +8,7 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This projected was coded by{" "}
+        <a
           href="https://precious-zabaione-7d1d9f.netlify.app/about"
           target="_blank"
         >
