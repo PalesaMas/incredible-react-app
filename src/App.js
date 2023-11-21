@@ -12,7 +12,7 @@ export default function App() {
           href="https://precious-zabaione-7d1d9f.netlify.app/about"
           target="_blank"
         >
-          Palesa Masiteng{" "}
+          Palesa Mamokoena Masiteng{" "}
         </a>
         and is{" "}
         <a
