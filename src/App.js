@@ -11,6 +11,7 @@ export default function App() {
         <a
           href="https://precious-zabaione-7d1d9f.netlify.app/about"
           target="_blank"
+          rel="noreferrer"
         >
           Palesa Koena Masiteng{" "}
         </a>
@@ -18,6 +19,7 @@ export default function App() {
         <a
           href="https://github.com/PalesaMas/incredible-react-app"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on Github.
         </a>
