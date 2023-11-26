@@ -22,7 +22,15 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            open-sourced on Github.
+            open-sourced on Github.{" "}
+          </a>{" "}
+          Hosted on{" "}
+          <a
+            href="https://idyllic-kitten-60c143.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>
