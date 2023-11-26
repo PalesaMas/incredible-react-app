@@ -6,9 +6,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
-          This projected was coded by{" "}
+          This project was coded by{" "}
           <a
             href="https://precious-zabaione-7d1d9f.netlify.app/about"
             target="_blank"
