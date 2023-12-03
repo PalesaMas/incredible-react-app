@@ -8,19 +8,19 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Johannesburg" />
         <footer>
-          This project was coded by{" "}
+          Coded by{" "}
           <a
             href="https://precious-zabaione-7d1d9f.netlify.app/about"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Palesa Masiteng{" "}
           </a>
-          and is{" "}
+          using React and it's{" "}
           <a
             href="https://github.com/PalesaMas/incredible-react-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on Github.{" "}
           </a>{" "}
@@ -28,7 +28,7 @@ export default function App() {
           <a
             href="https://idyllic-kitten-60c143.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Netlify
           </a>
